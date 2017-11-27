@@ -1,0 +1,9 @@
+References:
+
+1. Cornell University: Department of Computer Science. Writing Your Own Shell [Online]. Available: http://www.cs.cornell.edu/Courses/cs414/2004su/homework/shell/shell.html
+
+2. P. Deitel and H. Deitel, C: How to Program, Seventh Ed. USA: Prentice Hall, 2013.
+
+3. A. Allain. Lesson 15: Singly linked lists in C [Online]. Available: http://www.cprogramming.com/tutorial/c/lesson15.html
+
+4. Just check status process in C [Online]. Available: http://stackoverflow.com/questions/4200373/just-check-status-process-in-c
